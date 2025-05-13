@@ -1,1 +1,1 @@
-# 1nvolve_arch_theme
+My Arch linux configuration
